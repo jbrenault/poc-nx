@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/jbrenault/poc-nx/compare/service-v1.5.0...service-v1.6.0) (2022-08-19)
+
+
+### Features
+
+* twist feature ([a5b2280](https://github.com/jbrenault/poc-nx/commit/a5b2280894354a9c4e2ad5be0e8e7bc7c2c1c598))
+
 ## [1.5.0](https://github.com/jbrenault/poc-nx/compare/service-v1.4.0...service-v1.5.0) (2022-08-18)
 
 
